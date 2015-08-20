@@ -1,0 +1,38 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\ldkujawski\Desktop\GitHub\unit1Objects\Turtle\+libs\mediaComp.jar;C:\Users\ldkujawski\Desktop\GitHub\unit1Objects\Turtle
+-d
+C:\Users\ldkujawski\Desktop\GitHub\unit1Objects\Turtle\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\ldkujawski\Desktop\GitHub\unit1Objects\Turtle\TurtleWorld.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\ldkujawski\Desktop\GitHub\unit1Objects\Turtle\TurtleWorld.java...
+C:\Users\ldkujawski\Desktop\GitHub\unit1Objects\Turtle\TurtleWorld.java:12: error: <identifier> expected
+        turtle.
+               ^
+C:\Users\ldkujawski\Desktop\GitHub\unit1Objects\Turtle\TurtleWorld.java:12: error: not a statement
+        turtle.
+              ^
+C:\Users\ldkujawski\Desktop\GitHub\unit1Objects\Turtle\TurtleWorld.java:14: error: reached end of file while parsing
+}
+ ^
+3 errors
